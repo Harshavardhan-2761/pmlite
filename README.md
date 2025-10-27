@@ -57,47 +57,6 @@ A simple, elegant, and secure **API testing tool** built entirely using **HTML, 
 
 ---
 
-## ⚙️ Installation & Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/api-tester.git
-   cd api-tester
-````
-
-2. Open the file directly in your browser:
-
-   ```bash
-   open index.html
-   ```
-
-   *(or just double-click the file in your file explorer)*
-
-3. Start testing your APIs instantly — no setup, no dependencies!
-
----
-
-## 🛡️ Security Headers
-
-This app uses modern browser security best practices:
-
-* `Content-Security-Policy`
-* `X-Content-Type-Options: nosniff`
-* `X-Frame-Options: DENY`
-* `Referrer-Policy: no-referrer`
-
----
-
-## 💡 Example APIs Included
-
-| Example             | Endpoint                                       |
-| ------------------- | ---------------------------------------------- |
-| 🌤️ Weather API     | `https://api.weatherapi.com/v1/current.json`   |
-| 📰 JSON Placeholder | `https://jsonplaceholder.typicode.com/posts/1` |
-| 👤 Random User      | `https://randomuser.me/api/`                   |
-
----
-
 
 ## 👨‍💻 Author
 
